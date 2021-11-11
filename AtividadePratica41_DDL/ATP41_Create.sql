@@ -12,7 +12,7 @@ create table Produto (
 	,nome varchar(50) not null
 	,descricao varchar(150) not null
 	,codigo int not null
-	,preco money not null
+	,preco numeric not null
 );
 
 create table Categoria ( 
