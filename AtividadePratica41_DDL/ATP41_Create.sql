@@ -26,3 +26,4 @@ create table Carro (
 	,modelo varchar(50) not null
 	,marca varchar(50) not null
 );
+

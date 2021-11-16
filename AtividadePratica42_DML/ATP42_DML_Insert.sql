@@ -12,3 +12,5 @@ insert into Produto (nome,descricao,preco,id_categoria) values ('Monitor Gamer A
 insert into Produto (nome,descricao,preco,id_categoria) values ('Mouse Gamer SuperFrame MITO','Mouse 12000 DPI, RGB, 7 Botões, Black',91.84,1);
 insert into Produto (nome,descricao,preco,id_categoria) values ('Headset Gamer Redragon','Headset Ajax H230, Preto, H230',213.68,1);
 insert into Produto (nome,descricao,preco,id_categoria) values ('Mesa Office Husky Technologies','Mesa com Regulagem de Altura Automática',1899.95,3);
+
+
