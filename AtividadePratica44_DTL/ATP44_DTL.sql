@@ -8,7 +8,12 @@
 begin transaction;
 
 insert into Produto (nome, descricao,preco, id_categoria) values ('Notebook Dell G15','Computador portátil',5);
+
+savepoint = inserindo_produto;
+
 insert into Categoria (nome, descricao) values ('Softwares','Todo programa rodado em um computador que permita ao mesmo executar suas funções');
+
+rollback to inserindo_produto;
 
 -- Crie uma tabela Carros com id, marca e modelo. 
 create table Carros(  
@@ -51,6 +56,6 @@ create table Cidade (
 );
 
 -- Adicione um país, um estado e uma cidade. Execute os DDL e DML em uma mesma transação 
-insert into Pais (nome,sigla) values ('Brasil', 'Br');
+insert into Pais (nome,sigla) values ('Brasil', 'BR');
 insert into Estado (nome, sigla, pais_id) values ('Rio Grande do Sul', 'RS', 1);
 insert into Cidade (nome, estado_id) values ('Cachoeira do Sul', 1);
