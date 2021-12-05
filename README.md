@@ -1,4 +1,4 @@
-# ScriptsSQL_AtividadesPraticasIndividuaisEmBancoDeDados_AcademiaCapgeminiProWay
+# <h2>ScriptsSQL: Atividades Práticas Individuais em Banco de Dados da Academia Capgemini & ProWay</h2>
 Repositório para armazenar os ScriptsSQL das Atividades Práticas Individuais sobre Banco de Dados da Academia Java &amp; Angular da Capgemini &amp; ProWay.
 
 <h3>AtividadePratica41_DDL</h3>
