@@ -15,9 +15,9 @@ Repositório para armazenar os ScriptsSQL das Atividades Práticas Individuais s
   <li>  Adicione uma constraint a coluna id de categoria da tabela Produto. A constraint deve ser uma Foreign Key para a coluna Id, da tabela Categoria.</li>
 </ul>
 <br />
-  <li>  Link slide Orientações da Atividade: <a href="https://docs.google.com/presentation/d/1jYKEJS9JJg50VpBwqYrqiA-EPkzlhIApU1j72SCM9ys/edit#slide=id.gecd232fb99_0_0">ATIVIDADE PRÁTICA - 41<a/></li>
+Link slide Orientações da Atividade: <a href="https://docs.google.com/presentation/d/1jYKEJS9JJg50VpBwqYrqiA-EPkzlhIApU1j72SCM9ys/edit#slide=id.gecd232fb99_0_0">ATIVIDADE PRÁTICA - 41<a/>
 <br />  
-  <li>  Link resolução Atividade: <a href="https://github.com/ReAraujo/AtividadesPraticas_ScriptsSQL_BancoDeDados_Individuais_AcademiaCapgeminiProWay/tree/main/AtividadePratica41_DDL">AtividadePratica41_DDL<a/></li>
+Link resolução Atividade: <a href="https://github.com/ReAraujo/AtividadesPraticas_ScriptsSQL_BancoDeDados_Individuais_AcademiaCapgeminiProWay/tree/main/AtividadePratica41_DDL">AtividadePratica41_DDL<a/>
 <br />
   
 <h3>AtividadePratica42_DML</h3>
