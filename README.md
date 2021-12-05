@@ -15,9 +15,9 @@ Repositório para armazenar os ScriptsSQL das Atividades Práticas Individuais s
   <li>  Adicione uma constraint a coluna id de categoria da tabela Produto. A constraint deve ser uma Foreign Key para a coluna Id, da tabela Categoria.</li>
 </ul>
 <br />
-Link do Slide de Orientação da Ativiade: <a href="https://docs.google.com/presentation/d/1jYKEJS9JJg50VpBwqYrqiA-EPkzlhIApU1j72SCM9ys/edit#slide=id.gecd232fb99_0_0">ATIVIDADE PRÁTICA - 41<a/>
+Link slide Orientações da Atividade: <a href="https://docs.google.com/presentation/d/1jYKEJS9JJg50VpBwqYrqiA-EPkzlhIApU1j72SCM9ys/edit#slide=id.gecd232fb99_0_0">ATIVIDADE PRÁTICA - 41<a/>
 <br />  
-Link da resolução da Atividade: <a href="https://github.com/ReAraujo/AtividadesPraticas_ScriptsSQL_BancoDeDados_Individuais_AcademiaCapgeminiProWay/tree/main/AtividadePratica41_DDL">AtividadePratica41_DDL<a/>
+Link resolução Atividade: <a href="https://github.com/ReAraujo/AtividadesPraticas_ScriptsSQL_BancoDeDados_Individuais_AcademiaCapgeminiProWay/tree/main/AtividadePratica41_DDL">AtividadePratica41_DDL<a/>
 <br />
   
 <h3>AtividadePratica42_DML</h3>
@@ -32,9 +32,9 @@ Link da resolução da Atividade: <a href="https://github.com/ReAraujo/Atividade
   <li>  Altere o preço de todos os produtos tirando R$1,00 do preço atual.  </li>
 </ul>
 <br />
-Link do Slide de Orientação da Ativiade: <a href="https://docs.google.com/presentation/d/1OkxaPcg-9-DU4tz6EsaLjNlk71Ry3R9KfuP_BIOv7VE/edit#slide=id.gecd232fb99_0_0">ATIVIDADE PRÁTICA - 42<a/>
+Link slide Orientações da Atividade: <a href="https://docs.google.com/presentation/d/1OkxaPcg-9-DU4tz6EsaLjNlk71Ry3R9KfuP_BIOv7VE/edit#slide=id.gecd232fb99_0_0">ATIVIDADE PRÁTICA - 42<a/>
 <br />    
-Link da resolução da Atividade: <a href="https://github.com/ReAraujo/AtividadesPraticas_ScriptsSQL_BancoDeDados_Individuais_AcademiaCapgeminiProWay/tree/main/AtividadePratica42_DML">AtividadePratica42_DML<a/>
+Link resolução Atividade: <a href="https://github.com/ReAraujo/AtividadesPraticas_ScriptsSQL_BancoDeDados_Individuais_AcademiaCapgeminiProWay/tree/main/AtividadePratica42_DML">AtividadePratica42_DML<a/>
 <br />
   
 <h3>AtividadePratica43_DQL</h3>
@@ -51,9 +51,9 @@ Link da resolução da Atividade: <a href="https://github.com/ReAraujo/Atividade
   <li>  Liste os dados de todas as colunas da tabela Categoria e o os dados da coluna nome da tabela Produto, para as categorias que estão sendo utilizadas por produtos.  </li>
 </ul>
 <br />
-Link do Slide de Orientação da Ativiade: <a href="https://docs.google.com/presentation/d/1o4wlAKg6PkUC8Pb4EXcHOj_0zFjW0OCz0EaisI6QYGk/edit#slide=id.gecd232fb99_0_0">ATIVIDADE PRÁTICA - 43<a/>
+Link slide Orientações da Atividade: <a href="https://docs.google.com/presentation/d/1o4wlAKg6PkUC8Pb4EXcHOj_0zFjW0OCz0EaisI6QYGk/edit#slide=id.gecd232fb99_0_0">ATIVIDADE PRÁTICA - 43<a/>
 <br />    
-Link da resolução da Atividade: <a href="https://github.com/ReAraujo/AtividadesPraticas_ScriptsSQL_BancoDeDados_Individuais_AcademiaCapgeminiProWay/tree/main/AtividadePratica43_DQL">AtividadePratica43_DQL<a/>
+Link resolução Atividade: <a href="https://github.com/ReAraujo/AtividadesPraticas_ScriptsSQL_BancoDeDados_Individuais_AcademiaCapgeminiProWay/tree/main/AtividadePratica43_DQL">AtividadePratica43_DQL<a/>
 <br />
   
 <h3>AtividadePratica44_DTL</h3>
@@ -71,9 +71,9 @@ Link da resolução da Atividade: <a href="https://github.com/ReAraujo/Atividade
   <li>  Adicione um país, um estado e uma cidade. Execute os DDL e DML em uma mesma transação  </li>
 </ul>
 <br />
-Link do Slide de Orientação da Ativiade: <a href="https://docs.google.com/presentation/d/1b9I5Z-Ex2zpKJ63AOwcqiVDVAGH5PM5oQM5M7y2ygu8/edit#slide=id.gecd232fb99_0_0">ATIVIDADE PRÁTICA - 44<a/>
+Link slide Orientações da Atividade: <a href="https://docs.google.com/presentation/d/1b9I5Z-Ex2zpKJ63AOwcqiVDVAGH5PM5oQM5M7y2ygu8/edit#slide=id.gecd232fb99_0_0">ATIVIDADE PRÁTICA - 44<a/>
 <br />    
-Link da resolução da Atividade: <a href="https://github.com/ReAraujo/AtividadesPraticas_ScriptsSQL_BancoDeDados_Individuais_AcademiaCapgeminiProWay/tree/main/AtividadePratica44_DTL">AtividadePratica44_DTL<a/>
+Link resolução Atividade: <a href="https://github.com/ReAraujo/AtividadesPraticas_ScriptsSQL_BancoDeDados_Individuais_AcademiaCapgeminiProWay/tree/main/AtividadePratica44_DTL">AtividadePratica44_DTL<a/>
 <br />  
 
 <h3>AtividadePratica45_DQL</h3>
@@ -85,8 +85,8 @@ Link da resolução da Atividade: <a href="https://github.com/ReAraujo/Atividade
   <li>  Para a atividade do select, utilize: join, alias(as) para as tabelas e colunas para diferenciar as colunas nome e id entre as tabelas. </li>
 </ul>
 <br />
-Link do Slide de Orientação da Ativiade: <a href="https://docs.google.com/presentation/d/1qoFwGof9JFhI2b2Y6pQSNIVWmlvK9LMCR1EiYeGBCoQ/edit#slide=id.gecd232fb99_0_0T">ATIVIDADE PRÁTICA - 45<a/>
+Link slide Orientações da Atividade: <a href="https://docs.google.com/presentation/d/1qoFwGof9JFhI2b2Y6pQSNIVWmlvK9LMCR1EiYeGBCoQ/edit#slide=id.gecd232fb99_0_0T">ATIVIDADE PRÁTICA - 45<a/>
 <br />    
-Link da resolução da Atividade: <a href="https://github.com/ReAraujo/AtividadesPraticas_ScriptsSQL_BancoDeDados_Individuais_AcademiaCapgeminiProWay/tree/main/AtividadePratica45_DQL">AtividadePratica45_DQL<a/>
+Link resolução Atividade: <a href="https://github.com/ReAraujo/AtividadesPraticas_ScriptsSQL_BancoDeDados_Individuais_AcademiaCapgeminiProWay/tree/main/AtividadePratica45_DQL">AtividadePratica45_DQL<a/>
 <br />  
   
